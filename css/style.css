@@ -8,3 +8,18 @@ google fonts
 .body-font{
     font-family: 'Poppins', sans-serif;
 }
+/* -------------------------------
+custom carousel
+---------------------------------- */
+.btn-custom{
+    padding: 5px 10px;
+    border-radius: 9px;
+    background-color: #E83A59;
+    color: wheat;
+    border: 2px dotted #242B2E;
+    transition: 1s;
+}
+.btn-custom:hover{
+    padding: 6px 12px;
+    
+}
